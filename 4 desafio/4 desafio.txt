@@ -1,0 +1,36 @@
+
+Variaveis
+Nome: caractere
+Endereço: caractere
+Cidade: caractere
+CPF: inteiro
+RG: inteiro
+Idade: inteiro
+Nome do pai: caractere
+Nome da mae: caractere
+Peso: real
+Renda bruta: real
+
+entrada
+nome=leia()
+Endereco=leia()
+Cidade=leia()
+CPF=leia()
+RG=leia()
+Idade=leia()
+Nome do pai=leia()
+Nome da mae=leia()
+peso=leia()
+Renda bruta=leia()
+
+saída
+escreva(Nome)
+escreva(Endereço)
+escreva(Cidade)
+escreva(CPF)
+escreva(RG)
+escreva(Idade)
+escreva(Nome do pai)
+escreva(Nome da mãe)
+escreva(peso)
+escreva(Renda bruta)
